@@ -1,4 +1,6 @@
-# The report notebook (pdf, html, and ipynb versions are avaliable in the Root directory):
+# Python and SQL Coding and Data Science About Customer Segmentation and Prediction Regarding the Incremental Sales Opportunities
+
+*The report notebook (pdf, html, and ipynb versions are avaliable in the Root directory)*
 
 ## 1st Half:
 ### TASK 1 - [DS_SAMPLE.csv]
