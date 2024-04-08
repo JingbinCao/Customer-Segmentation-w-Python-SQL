@@ -1,6 +1,7 @@
 # Customer Segmentation and Prediction Regarding the Incremental Sales Opportunities
 
-- Data science and coding project example 
+- Data science and coding project example
+  
 *The report notebook (pdf, html, and ipynb versions are avaliable in the Root directory)*
 
 ## 1st Half:
