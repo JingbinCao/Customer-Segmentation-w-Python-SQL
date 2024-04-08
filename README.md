@@ -1,7 +1,7 @@
-The report notebook (pdf, html, and ipynb versions are avaliable in the Root directory):
+# The report notebook (pdf, html, and ipynb versions are avaliable in the Root directory):
 
-1st Half:
-TASK 1 - [DS_SAMPLE.csv]
+## 1st Half:
+### TASK 1 - [DS_SAMPLE.csv]
 - Using the dataset provided in DS_SAMPLE.csv:
     1. For each "Type" in Column A:
         A- What is the count of "PO NUMBER" by "WHS"?
@@ -13,7 +13,7 @@ TASK 1 - [DS_SAMPLE.csv]
         D- Prepare a simple time series plot showing "TOTAL WGHT" over time
         E- For every "BYR", identify the "UPC" with the most "TOTAL CASES" ordered across time
  
-TASK 2 - [Basic OOP]
+### TASK 2 - [Basic OOP]
 - Using Python:
     1. Design a class with two variables, checking account and savings account
         - Create Functions to Deposit, Withdraw, and Transfer money between accounts
@@ -25,7 +25,7 @@ TASK 2 - [Basic OOP]
         - Withdraw 500 from savings
         - Output the dictionary with all transactions
  
-TASK 3- [SQL_SAMPLE.CSV]
+### TASK 3- [SQL_SAMPLE.CSV]
 The sample file [SQL_SAMPLE.csv] provides a dataset that is essentially joined from multiple sources - showing item data, yearly sales/cost data, location data and daily stocklevels.
 Your goal is to:
   1. Insert the file into a SQLite database using Python
@@ -40,7 +40,7 @@ Your goal is to:
   6. Feel free to add any other insights you gathered during this exercise.
 
 
-2nd Half:
+## 2nd Half:
 
 •	The data is the information on possible incremental sales to customers by departments that we have identified. Each row is a unique customer while each column represents a category of products.
 •	The values contained are the dollar amount potential incremental sales for a customer/category combination.
